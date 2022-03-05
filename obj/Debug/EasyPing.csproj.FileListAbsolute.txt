@@ -1,0 +1,13 @@
+E:\Code\Github\CSharp\Project01\EasyPing\EasyPing\bin\Debug\EasyPing.exe.config
+E:\Code\Github\CSharp\Project01\EasyPing\EasyPing\bin\Debug\EasyPing.exe
+E:\Code\Github\CSharp\Project01\EasyPing\EasyPing\bin\Debug\EasyPing.pdb
+E:\Code\Github\CSharp\Project01\EasyPing\EasyPing\obj\Debug\EasyPing.csproj.AssemblyReference.cache
+E:\Code\Github\CSharp\Project01\EasyPing\EasyPing\obj\Debug\EasyPing.csproj.SuggestedBindingRedirects.cache
+E:\Code\Github\CSharp\Project01\EasyPing\EasyPing\obj\Debug\EasyPing.AboutForm.resources
+E:\Code\Github\CSharp\Project01\EasyPing\EasyPing\obj\Debug\EasyPing.MainForm.resources
+E:\Code\Github\CSharp\Project01\EasyPing\EasyPing\obj\Debug\EasyPing.Properties.Resources.resources
+E:\Code\Github\CSharp\Project01\EasyPing\EasyPing\obj\Debug\EasyPing.SettingForm.resources
+E:\Code\Github\CSharp\Project01\EasyPing\EasyPing\obj\Debug\EasyPing.csproj.GenerateResource.cache
+E:\Code\Github\CSharp\Project01\EasyPing\EasyPing\obj\Debug\EasyPing.csproj.CoreCompileInputs.cache
+E:\Code\Github\CSharp\Project01\EasyPing\EasyPing\obj\Debug\EasyPing.exe
+E:\Code\Github\CSharp\Project01\EasyPing\EasyPing\obj\Debug\EasyPing.pdb
